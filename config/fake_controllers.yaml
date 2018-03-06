@@ -1,0 +1,9 @@
+controller_list:
+  - name: fake_manipulator_controller
+    joints:
+      - thor_art1_joint
+      - thor_art2_joint
+      - thor_art3_joint
+      - thor_art4_joint
+      - thor_art5_joint
+      - thor_art6_joint
